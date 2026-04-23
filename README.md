@@ -1,123 +1,160 @@
-## Hi there 👋
+# 👋 Hi, I'm Gerard Mulumba
 
-<!--
-**GerardMulumba/GerardMulumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Gerard Mulumba
-
-### Robotics Engineer | Autonomous Systems | Control & Intelligent Machines
-
-Robotics engineer specializing in **autonomous systems, control engineering, and embedded robotics**.
-My work focuses on building **intelligent robotic platforms capable of operating in complex and unstructured environments**.
-
-I combine **robotics theory, control systems, embedded electronics, and mechanical design** to develop complete robotic solutions — from **dynamic modeling and simulation to real-world implementation**.
-
-Currently working on **autonomous mobile robots for environmental monitoring in open-pit mining environments**, integrating **SLAM, sensor fusion, and advanced control algorithms**.
+🎓 Mechatronics & Robotics Engineer  
+📍 Kinshasa, DR Congo  
+📧 gerarddieuleveutmulumba@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/gerard-mulumba-959851240/)  
+💻 [GitHub](https://github.com/GerardMulumba)
 
 ---
 
-# Research Interests
+## 🚀 About Me
 
-* Autonomous Mobile Robots
-* Robot Navigation and SLAM
-* Model Predictive Control (MPC)
-* Embedded Robotics Systems
-* Dynamic Modeling and Simulation
-* Environmental Monitoring Robotics
-* Intelligent Control Systems
+I am a passionate engineer in **robotics, automation, and control systems**, with strong academic training and hands-on experience in:
 
----
+- Mobile robotics
+- Embedded systems
+- Control engineering
+- System modeling and simulation
 
-# Featured Research Projects
-
-### Mobile Robot for Open-Pit Mining Monitoring
-
-Design and development of an **autonomous tracked mobile robot** capable of operating in rough mining terrain for environmental monitoring using **SLAM-based localization and sensor integration**.
-
-### Tricopter UAV Control System
-
-* Flight dynamics modeling
-* Control law implementation for stabilization
-* Optimization of maneuverability and weight distribution
-
-### Industrial Mixer Dynamic Modeling
-
-* Mathematical modeling in **MATLAB/Simulink**
-* Control system design and performance optimization
+I am particularly interested in developing **intelligent autonomous systems** and contributing to **innovative research or industrial projects**.
 
 ---
 
-# Technical Skills
+## 🎓 Education
 
-### Robotics & Control
+**MSc in Mechatronics and Robotics**  
+Southwest State University, Kursk, Russia (2023–2025)
 
-MATLAB • Simulink • ROS1 • SLAM • Control Systems • Computer Vision
+Relevant coursework:
+- Control of Mechatronic Systems  
+- Embedded Motor Control  
+- Signal Processing  
+- Optimization Methods  
+- Human-Machine Interaction  
 
-### Embedded Systems
+**BSc in Mechatronics and Robotics**  
+Southwest State University, Kursk, Russia (2019–2023)
 
-Arduino • STM32 • Raspberry Pi • MSP430 • Sensor Integration
-
-### Programming
-
-Python • C/C++ • PLC • LaTeX
-
-### Simulation & Engineering
-
-MSC Adams • COMSOL • Multisim • Octave
-
-### CAD & Mechanical Design
-
-SolidWorks • Kompas-3D • CATIA V5/V6 • AutoCAD
-
-### Electronics Design
-
-Altium • Proteus • EasyEDA
+Relevant coursework:
+- Mobile Robotics  
+- Manipulator Robotics  
+- Multivariable Control  
+- Sensors & Microcontrollers  
 
 ---
 
-# Publications
+## 🔬 Research & Projects
 
-* **Adaptation of Mobile Robot Sensors** — UFA 2024
-* **Controlling a Tracked Robot for Monitoring** — Kursk 2024
-* **Design of a Tracked Robot for Mines** — UFA 2023
-* **Health of Foreign Students in Education** — Kursk 2023
+### 🤖 Mobile Robot for Open-Pit Mining (Master Thesis)
+- Design of a mobile robot for environmental monitoring in rough terrain  
+- Implementation of **SLAM (Simultaneous Localization and Mapping)**  
+- Focus on autonomy and robustness in harsh environments  
 
----
+### 🚁 Tricopter UAV Project
+- Flight dynamics modeling and simulation  
+- Implementation of stabilization control laws  
+- Optimization of weight distribution and maneuverability  
 
-# Awards
-
-🏆 **Best Scientific Article – UFA 2024**
-🥈 **Innovative Research Idea – UFA 2023**
-🥇 **Best Research Paper – UFA 2023**
-
----
-
-# Professional Experience
-
-**Control Systems Engineer**
-ELMETCOM — Kursk, Russia
-
-* Designed **functional and block diagrams for automated control systems**
-* Developed **mathematical models of control systems**
-* Selected electronic components and designed **control circuits**
+### ⚙️ Industrial Mixer System Modeling
+- Dynamic system modeling using MATLAB  
+- Control system design and optimization  
 
 ---
 
-# Languages
+## 💼 Work Experience
 
-French (Native)
-English (C1)
-Russian (C1)
+**Control Systems Engineer**  
+ELMETCOM, Kursk, Russia (Oct 2023 – Jul 2024)
 
----
-
-# Connect With Me
-
-Email: [gerarddieuleveutmulumba@gmail.com](mailto:gerarddieuleveutmulumba@gmail.com)
-LinkedIn: https://linkedin.com/in/gerard-mulumba
-GitHub: https://github.com/GerardMulumba
+- Designed functional and block diagrams for control systems  
+- Developed mathematical models of dynamic systems  
+- Selected electronic components and designed control circuits  
 
 ---
 
-**Robotics | Autonomous Systems | Intelligent Machines**
+## 🧠 Skills
+
+### 💻 Programming
+- Python, C/C++, PLC, LaTeX, Karel  
+
+### 📊 Simulation & Modeling
+- MATLAB, Simulink, MSC Adams, COMSOL, Multisim, Octave  
+
+### 🔌 Embedded Systems
+- Arduino, STM32, Raspberry Pi, MSP430  
+- Altium, Proteus, EasyEDA  
+
+### 🏗️ CAD & Design
+- SolidWorks, Kompas 3D, AutoCAD, CATIA V5/V6  
+
+### 🤖 Robotics
+- ROS1  
+- SLAM  
+- Computer Vision  
+
+### 🧠 AI & Machine Learning
+- Supervised & Unsupervised Learning  
+- Reinforcement Learning  
+
+### 🛠️ Tools
+- Git (GitHub, GitLab)  
+- Microsoft Office  
+- TikZ, MathType  
+
+---
+
+## 🏆 Awards
+
+- 🥇 Best Scientific Article – UFA 2024  
+- 🥈 2nd Prize – Innovative Research Idea – UFA 2023  
+- 🥇 1st Prize – Best Paper – UFA 2023  
+
+---
+
+## 📄 Publications
+
+- *Adaptation of Mobile Robot’s Sensors* – UFA 2024  
+- *Controlling a Tracked Robot for Monitoring* – Kursk 2024  
+- *Design of a Tracked Robot for Mines* – UFA 2023  
+- *Health of Foreign Students in Education* – Kursk 2023  
+
+---
+
+## 🌍 Languages
+
+- French — Native  
+- English — C1  
+- Russian — C1  
+
+---
+
+## 📚 Trainings
+
+- Intelligent Robotic Technologies (Industrial & Medical)  
+- Engineering Project Management  
+- Sensor Applications in Mechatronics  
+
+---
+
+## 📌 Current Interests
+
+- Autonomous navigation & SLAM  
+- Model Predictive Control (MPC)  
+- Dynamic obstacle avoidance  
+- Human-machine interfaces for robotics  
+- AI for robotic systems  
+
+---
+
+## 🤝 Let's Collaborate
+
+I am open to:
+- Research collaborations  
+- Robotics and control engineering projects  
+- International opportunities  
+
+Feel free to connect or explore my repositories!
+
+---
 
